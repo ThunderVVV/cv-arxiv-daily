@@ -17,7 +17,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|<div style="width:100px;">1. National Tsing Hua University 2. NVIDIA</div>|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
+|**2024-08-28**|<div style="width:200px;">**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**<div style="width:200px;">|<div style="width:100px;">1. National Tsing Hua University 2. NVIDIA</div>|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
 |**2024-08-28**|**Benchmarking foundation models as feature extractors for weakly-supervised computational pathology**|<div style="width:100px;">1. Technical University Dresden 2. StratifAI GmbH 3. University Hospital and Faculty of Medicine Carl Gustav Carus 4. German Cancer Research Center</div>|[2408.15823](http://arxiv.org/abs/2408.15823)|null|
 |**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|<div style="width:100px;">1. German Cancer Research Center (DKFZ)</div>|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
 |**2024-08-28**|**MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms**|<div style="width:100px;">1. Qilu University of Technology (Shandong Academy of Sciences) 2. Fuzhou University 3. Shanghai Jiao Tong University 4. Tongji University</div>|[2408.15740](http://arxiv.org/abs/2408.15740)|null|
