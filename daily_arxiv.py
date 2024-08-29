@@ -7,6 +7,9 @@ import logging
 import argparse
 import datetime
 import requests
+import pdfplumber 
+from openai import OpenAI
+from io import BytesIO
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -15,6 +18,45 @@ logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
 base_url = "https://arxiv.paperswithcode.com/api/v0/papers/"
 github_url = "https://api.github.com/search/repositories"
 arxiv_url = "http://arxiv.org/"
+
+with open("../kimi_key.txt", "r") as f:
+    KIMI_KEY = f.read()
+ 
+client = OpenAI(
+    api_key=KIMI_KEY, # 在这里将 MOONSHOT_API_KEY 替换为你从 Kimi 开放平台申请的 API Key
+    base_url="https://api.moonshot.cn/v1",
+)
+
+def get_author_affiliation(pdf_url):
+    """
+    从 PDF 文件中提取作者单位信息
+    """
+    response = requests.get(pdf_url)
+    pdf_content = BytesIO(response.content)
+    author_affiliation = []
+
+    with pdfplumber.open(pdf_content) as pdf:
+        first_page = pdf.pages[0]
+        text = first_page.extract_text()
+
+        # 设置提示词
+        prompt = 'This is an academic paper. Extract the affiliations of authors from the given text. Answer with the format: 1.xxx, 2.xxx, ... . If there are more than one of the same, merge the same affiliations. If the total number is more than 5, only answer the first 5 affiliations. The given text is: ' + text
+
+        # 调用 GPT-3.5 的接口
+        response = client.chat.completions.create(
+            model="moonshot-v1-8k",
+            messages=[
+                {"role": "system", "content": "You are a very powerful named entity recognition model."},
+                {"role": "user", "content": prompt}
+            ],
+        )
+
+        output = response.choices[0].message.content.strip()
+        institutions = output.replace('\n', ' ')
+
+        author_affiliation = institutions
+
+    return author_affiliation
 
 def load_config(config_file:str) -> dict:
     '''
@@ -122,6 +164,13 @@ def get_daily_papers(topic,query="slam", max_results=2):
         else:
             paper_key = paper_id[0:ver_pos]
         paper_url = arxiv_url + 'abs/' + paper_key
+        pdf_url = arxiv_url + 'pdf/' + paper_key
+        try:
+            affiliation = get_author_affiliation(pdf_url)
+            # affiliation = " | ".join(affiliation[:3])
+            print(affiliation)
+        except:
+            affiliation = " "
 
         try:
             # source code link
@@ -135,14 +184,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
             if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url,repo_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.{}|[{}]({})|**[link]({})**|\n".format(
+                       update_time,paper_title,paper_first_author,affiliation,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,paper_key,paper_url)
+                content[paper_key] = "|**{}**|**{}**|{} et.al.{}|[{}]({})|null|\n".format(
+                       update_time,paper_title,paper_first_author,affiliation,paper_key,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
