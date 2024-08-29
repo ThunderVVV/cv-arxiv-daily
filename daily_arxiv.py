@@ -40,7 +40,7 @@ def get_author_affiliation(pdf_url):
         text = first_page.extract_text()
 
         # 设置提示词
-        prompt = 'This is an academic paper. Extract the affiliations of authors from the given text. Answer with the format: 1.xxx, 2.xxx, ... . If there are more than one of the same, merge the same affiliations. If the total number is more than 5, only answer the first 5 affiliations. The given text is: ' + text
+        prompt = 'This is an academic paper. Extract the affiliations of authors from the given text. Answer with the format: 1.xxx, 2.xxx, ... . You should make the answer as brief as possible. Do not add their address. Remove the affiliation content in parentheses. For affiliations of university, only answer the university name. If there are more than one of the same, merge the same affiliations. If the total number is more than 4, only answer the first 4 affiliations. The given text is: ' + text
 
         # 调用 GPT-3.5 的接口
         response = client.chat.completions.create(
@@ -168,6 +168,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
         try:
             affiliation = get_author_affiliation(pdf_url)
             # affiliation = " | ".join(affiliation[:3])
+            affiliation = '<div style="width:400px;">' + affiliation + "</div>"
             print(affiliation)
         except:
             affiliation = " "
@@ -184,14 +185,14 @@ def get_daily_papers(topic,query="slam", max_results=2):
             #    if repo_url is None:
             #        repo_url = get_code_link(paper_key)
             if repo_url is not None:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.{}|[{}]({})|**[link]({})**|\n".format(
-                       update_time,paper_title,paper_first_author,affiliation,paper_key,paper_url,repo_url)
+                content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|**[link]({})**|\n".format(
+                       update_time,paper_title,affiliation,paper_key,paper_url,repo_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({}), Code: **[{}]({})**".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url,repo_url,repo_url)
 
             else:
-                content[paper_key] = "|**{}**|**{}**|{} et.al.{}|[{}]({})|null|\n".format(
-                       update_time,paper_title,paper_first_author,affiliation,paper_key,paper_url)
+                content[paper_key] = "|**{}**|**{}**|{}|[{}]({})|null|\n".format(
+                       update_time,paper_title,affiliation,paper_key,paper_url)
                 content_to_web[paper_key] = "- {}, **{}**, {} et.al., Paper: [{}]({})".format(
                        update_time,paper_title,paper_first_author,paper_url,paper_url)
 
