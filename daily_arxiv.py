@@ -130,7 +130,16 @@ def insert_br(text):
     words = text.split()
     result = ''
     line_length = 0
+    new_words = []
     for word in words:
+        if len(word) > 40:
+            new_words.append(word[:30])
+            new_words.append(word[30:])
+        else:
+            new_words.append(word)
+    words = new_words
+    for word in words:
+        
         if line_length + len(word) > 30:
             result += '<br>'
             line_length = 0
