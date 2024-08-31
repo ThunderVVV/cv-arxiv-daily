@@ -126,6 +126,9 @@ def get_code_link(qword:str) -> str:
         code_link = results["items"][0]["html_url"]
     return code_link
 
+def insert_br(text):
+    return '<br>'.join([text[i:i+30] for i in range(0, len(text), 30)])
+
 def get_daily_papers(topic,query="slam", max_results=2):
     """
     @param topic: str
@@ -168,8 +171,8 @@ def get_daily_papers(topic,query="slam", max_results=2):
         try:
             affiliation = get_author_affiliation(pdf_url)
             # affiliation = " | ".join(affiliation[:3])
-            affiliation = '<div style="width:400px;">' + affiliation + "</div>"
             print(affiliation)
+            affiliation = insert_br(affiliation)
         except:
             affiliation = " "
 
