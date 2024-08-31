@@ -127,7 +127,16 @@ def get_code_link(qword:str) -> str:
     return code_link
 
 def insert_br(text):
-    return '<br>'.join([text[i:i+30] for i in range(0, len(text), 30)])
+    words = text.split()
+    result = ''
+    line_length = 0
+    for word in words:
+        if line_length + len(word) > 30:
+            result += '<br>'
+            line_length = 0
+        result += word +' '
+        line_length += len(word) + 1
+    return result.strip()
 
 def get_daily_papers(topic,query="slam", max_results=2):
     """
