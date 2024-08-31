@@ -132,7 +132,7 @@ def insert_br(text):
     line_length = 0
     new_words = []
     for word in words:
-        if len(word) > 40:
+        if len(word) > 30:
             new_words.append(word[:30])
             new_words.append(word[30:])
         else:
