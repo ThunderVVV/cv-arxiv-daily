@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.02
+## Updated on 2024.09.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|1. University of Illinois <br>Urbana-Champaign 2. Carnegie <br>Mellon University|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
+|**2024-09-05**|**Text-Guided Mixup Towards Long-Tailed Image Categorization**|1. University of Washington 2. <br>Alibaba Group|[2409.03583](http://arxiv.org/abs/2409.03583)|**[link](https://github.com/rsamf/text-guided-mixup)**|
+|**2024-09-05**|**FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation**|1. Harbin Institute of <br>Technology 2. University of <br>Surrey 3. Nanyang <br>Technological University|[2409.03525](http://arxiv.org/abs/2409.03525)|null|
+|**2024-09-05**|**Have Large Vision-Language Models Mastered Art History?**|1.KULeuven 2.TUDelft|[2409.03521](http://arxiv.org/abs/2409.03521)|null|
+|**2024-09-05**|**OccLLaMA: An Occupancy-Language-Action Generative World Model for Autonomous Driving**|1.FudanUniversity <br>2.TsinghuaUniversity|[2409.03272](http://arxiv.org/abs/2409.03272)|null|
+|**2024-09-03**|**Multi-Modal Adapter for Vision-Language Models**|1. University of Amsterdam 2. <br>Vinted|[2409.02958](http://arxiv.org/abs/2409.02958)|**[link](https://github.com/dqmis/clip-mma)**|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|1. ShanghaiTech University 2. <br>The Chinese University of Hong <br>Kong|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
+|**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|1. University of Virginia|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
+|**2024-09-04**|**Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection**|1. Shenzhen University 2. <br>Tencent Youtu Lab|[2409.02664](http://arxiv.org/abs/2409.02664)|null|
+|**2024-09-04**|**Vision-Language Navigation with Continual Learning**|1. State Key Laboratory of <br>Multimodal Artificial <br>Intelligence Systems 2. <br>Institute of Automation, <br>Chinese Academy of Sciences <br>(CASIA) 3. University of <br>Chinese Academy of Sciences <br>(UCAS)|[2409.02561](http://arxiv.org/abs/2409.02561)|null|
+|**2024-09-04**|**Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments**|1. State Key Laboratory of <br>Multimodal Artificial <br>Intelligence Systems, <br>Institute of Automation, <br>Chinese Academy of Science <br>(CASIA), Beijing 2. University <br>of Chinese Academy of Sciences <br>(UCAS), Beijing 3. Department <br>of Computer Science, The <br>University of Hong Kong, Hong <br>Kong Special Administrative <br>Region (SAR)|[2409.02522](http://arxiv.org/abs/2409.02522)|null|
+|**2024-09-04**|**MOSMOS: Multi-organ segmentation facilitated by medical report supervision**|1.Fudan University 2.The Hong <br>Kong University of Science and <br>Technology 3.Second Military <br>Medical University (Naval <br>Medical University) 4.Shanghai <br>Collaborative Innovation <br>Center of Intelligent Visual <br>Computing|[2409.02418](http://arxiv.org/abs/2409.02418)|null|
+|**2024-09-04**|**Multi-modal Situated Reasoning in 3D Scenes**|1. State Key Laboratory of <br>General Artificial <br>Intelligence, BIGAI 2. Peking <br>University|[2409.02389](http://arxiv.org/abs/2409.02389)|null|
+|**2024-09-03**|**Evaluation and Comparison of Visual Language Models for Transportation Engineering Problems**|1. Indian Institute of <br>Technology Kanpur 2. New York <br>University 3. Indian Institute <br>of Technology Kanpur 4. Indian <br>Institute of Technology Kanpur|[2409.02278](http://arxiv.org/abs/2409.02278)|null|
+|**2024-09-03**|**How to Determine the Preferred Image Distribution of a Black-Box Vision-Language Model?**|1.AutodeskAIResearch|[2409.02253](http://arxiv.org/abs/2409.02253)|null|
+|**2024-09-03**|**Towards Real-World Adverse Weather Image Restoration: Enhancing Clearness and Semantics with Vision-Language Models**|1.The Chinese University of <br>Hong Kong 2.Shanghai <br>Artificial Intelligence <br>Laboratory|[2409.02101](http://arxiv.org/abs/2409.02101)|**[link](https://github.com/jiaqixuac/WResVLM)**|
+|**2024-09-03**|**GraspSplats: Efficient Manipulation with 3D Feature Splatting**|1. UCSanDiego|[2409.02084](http://arxiv.org/abs/2409.02084)|null|
+|**2024-09-03**|**Boosting Vision-Language Models for Histopathology Classification: Predict all at once**|1. Université Catholique de <br>Louvain (UCLouvain) 2. <br>Université de Mons (UMons) 3. <br>École de Technologie <br>Supérieure (ÉTS) 4. Centre de <br>Recherche du Centre <br>Hospitalier de l’Université de <br>Montréal (CRCHUM)|[2409.01883](http://arxiv.org/abs/2409.01883)|**[link](https://github.com/fereshteshakeri/histo-transclip)**|
+|**2024-09-03**|**Towards Generative Class Prompt Learning for Few-shot Visual Recognition**|1. University of North <br>Carolina at Chapel Hill 2. <br>Computer Vision Center & <br>Computer Science Department, <br>Universitat Autònoma de <br>Barcelona 3. MICC, University <br>of Florence 4. University of <br>Florence|[2409.01835](http://arxiv.org/abs/2409.01835)|null|
+|**2024-09-04**|**When Does Visual Prompting Outperform Linear Probing for Vision-Language Models? A Likelihood Perspective**|1. National Tsing Hua <br>University 2. Dartmouth <br>College 3. IBM Research 4. The <br>Chinese University of Hong <br>Kong|[2409.01821](http://arxiv.org/abs/2409.01821)|**[link](https://github.com/ibm/vp-llr)**|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|1. Mohamed Bin Zayed <br>University of Artificial <br>Intelligence|[2408.16769](http://arxiv.org/abs/2408.16769)|**[link](https://github.com/nhussein/promptsmooth)**|
 |**2024-08-29**|**VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation**|1. University of Science and <br>Technology of China 2. Show <br>Lab, National University of <br>Singapore 3. Xiaohongshu.Inc <br>4. Institute for Infocomm <br>Research, A*STAR|[2408.16730](http://arxiv.org/abs/2408.16730)|null|
 |**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|1. ETH Zürich 2. Microsoft|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
@@ -38,7 +58,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
