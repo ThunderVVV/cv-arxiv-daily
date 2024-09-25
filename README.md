@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.08
+## Updated on 2024.09.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|1.QwenTeamAlibabaGroup|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
+|**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|1.Tsinghua University|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
+|**2024-09-18**|**GauTOAO: Gaussian-based Task-Oriented Affordance of Objects**|1.Peking University|[2409.11941](http://arxiv.org/abs/2409.11941)|null|
+|**2024-09-18**|**LLM-wrapper: Black-Box Semantic-Aware Adaptation of Vision-Language Foundation Models**|1.Valeo.ai 2.Univ. Grenoble <br>Alpes 3.Sorbonne Université|[2409.11919](http://arxiv.org/abs/2409.11919)|null|
+|**2024-09-18**|**VL-Reader: Vision and Language Reconstructor is an Effective Scene Text Recognizer**|1.AlibabaGroup <br>2.HuazhongUniversityofSciencea <br>ndTechnology 3.AlibabaGroup <br>4.HuazhongUniversityofSciencea <br>ndTechnology|[2409.11656](http://arxiv.org/abs/2409.11656)|null|
+|**2024-09-17**|**Mamba Fusion: Learning Actions Through Questioning**|1. <br>GeorgiaInstituteofTechnology <br>2. StonyBrookUniversity 3. <br>GoogleResearch|[2409.11513](http://arxiv.org/abs/2409.11513)|**[link](https://github.com/dongzhikang/mambavl)**|
+|**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|1.NVIDIA|[2409.11402](http://arxiv.org/abs/2409.11402)|null|
+|**2024-09-17**|**CORE-Bench: Fostering the Credibility of Published Research Through a Computational Reproducibility Agent Benchmark**|1.Princeton University|[2409.11363](http://arxiv.org/abs/2409.11363)|**[link](https://github.com/siegelz/core-bench)**|
+|**2024-09-17**|**LPT++: Efficient Training on Mixture of Long-tailed Experts**|1. School of Computer Science <br>and Technology, Harbin <br>Institute of Technology 2. <br>School of Computing and <br>Information Systems, Singapore <br>Management University 3. The <br>Hong Kong Polytechnic <br>University|[2409.11323](http://arxiv.org/abs/2409.11323)|null|
+|**2024-09-17**|**Improving the Efficiency of Visually Augmented Language Models**|1.UniversityoftheBasqueCountry <br>UPV/EHU|[2409.11148](http://arxiv.org/abs/2409.11148)|null|
+|**2024-09-17**|**CAST: Cross-modal Alignment Similarity Test for Vision Language Models**|1. University of Edinburgh 2. <br>University of Trento|[2409.11007](http://arxiv.org/abs/2409.11007)|**[link](https://github.com/gautierdag/cast)**|
+|**2024-09-17**|**KALE: An Artwork Image Captioning System Augmented with Heterogeneous Graph**|1.TheUniversityofMelbourne|[2409.10921](http://arxiv.org/abs/2409.10921)|**[link](https://github.com/yanbei-jiang/artwork-interpretation)**|
+|**2024-09-16**|**Benchmarking VLMs' Reasoning About Persuasive Atypical Images**| |[2409.10719](http://arxiv.org/abs/2409.10719)|null|
+|**2024-09-16**|**MotIF: Motion Instruction Fine-tuning**|1. Massachusetts Institute of <br>Technology 2. Stanford <br>University 3. Carnegie Mellon <br>University|[2409.10683](http://arxiv.org/abs/2409.10683)|null|
+|**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|1.BrownUniversity|[2409.10488](http://arxiv.org/abs/2409.10488)|null|
+|**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|1. University of <br>CaliforniaSanDiego 2. <br>IntelLabs|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|1.NewYorkUniversity|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
+|**2024-09-16**|**ASMA: An Adaptive Safety Margin Algorithm for Vision-Language Drone Navigation via Scene-Aware Control Barrier Functions**|1.Purdue University|[2409.10283](http://arxiv.org/abs/2409.10283)|null|
+|**2024-09-16**|**NEUSIS: A Compositional Neuro-Symbolic Framework for Autonomous Perception, Reasoning, and Planning in Complex UAV Search Missions**|1. Monash University 2. Monash <br>University 3. Monash <br>University 4. Monash <br>University|[2409.10196](http://arxiv.org/abs/2409.10196)|null|
+|**2024-09-16**|**MotionCom: Automatic and Motion-Aware Image Composition with LLM and Video Diffusion Prior**|1.NanyangTechnologicalUniversi <br>ty 2.AlibabaGroup|[2409.10090](http://arxiv.org/abs/2409.10090)|**[link](https://github.com/weijing-tao/MotionCom)**|
 |**2024-09-05**|**Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding**|1. University of Illinois <br>Urbana-Champaign 2. Carnegie <br>Mellon University|[2409.03757](http://arxiv.org/abs/2409.03757)|**[link](https://github.com/yunzeman/lexicon3d)**|
 |**2024-09-05**|**Text-Guided Mixup Towards Long-Tailed Image Categorization**|1. University of Washington 2. <br>Alibaba Group|[2409.03583](http://arxiv.org/abs/2409.03583)|**[link](https://github.com/rsamf/text-guided-mixup)**|
 |**2024-09-05**|**FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation**|1. Harbin Institute of <br>Technology 2. University of <br>Surrey 3. Nanyang <br>Technological University|[2409.03525](http://arxiv.org/abs/2409.03525)|null|
@@ -58,7 +78,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20240908>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
