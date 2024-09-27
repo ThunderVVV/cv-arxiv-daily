@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|1.TheUniversityofHongKong <br>2.ShanghaiAILaboratory|[2409.18125](http://arxiv.org/abs/2409.18125)|null|
+|**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|1.Shanghai Jiao Tong <br>University 2.The Hong Kong <br>University of Science and <br>Technology 3.Department of <br>Computer Science, National <br>University of Singapore <br>4.CUHK-MMLab|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
+|**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|1. University of Texas at <br>Arlington 2. University of <br>Texas at Arlington|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
+|**2024-09-26**|**EMOVA: Empowering Language Models to See, Hear and Speak with Vivid Emotions**|1.HongKongUniversityofSciencea <br>ndTechnology <br>2.TheUniversityofHongKong <br>3.HuaweiNoah’sArkLab <br>4.TheChineseUniversityofHongKo <br>ng|[2409.18042](http://arxiv.org/abs/2409.18042)|null|
+|**2024-09-26**|**DARE: Diverse Visual Question Answering with Robustness Evaluation**|1. University of Cambridge 2. <br>Google DeepMind|[2409.18023](http://arxiv.org/abs/2409.18023)|null|
+|**2024-09-26**|**The Hard Positive Truth about Vision-Language Compositionality**|1. UniversityofWashington 2. <br>UniversityofCalifornia,LosAnge <br>les 3. AllenInstituteforAI|[2409.17958](http://arxiv.org/abs/2409.17958)|null|
+|**2024-09-26**|**Cascade Prompt Learning for Vision-Language Model Adaptation**|1.Nankai University 2.Shenzhen <br>Futian 3.Megvii Technology|[2409.17805](http://arxiv.org/abs/2409.17805)|null|
+|**2024-09-26**|**Robotic-CLIP: Fine-tuning CLIP on Action Data for Robotic Applications**|1.FPTSoftwareAICenter <br>2.Automation&ControlInstitute( <br>ACIN),TUWien <br>3.CenterforVision,Automation&C <br>ontrol,AITAustrianInstituteofT <br>echnology(GmbH) <br>4.TheUniversityofTokyo|[2409.17727](http://arxiv.org/abs/2409.17727)|null|
+|**2024-09-26**|**Explanation Bottleneck Models**|1. NTT 2. Kyoto University|[2409.17663](http://arxiv.org/abs/2409.17663)|**[link](https://github.com/yshinya6/xbm)**|
+|**2024-09-26**|**AP-VLM: Active Perception Enabled by Vision-Language Models**|1. University of Surrey|[2409.17641](http://arxiv.org/abs/2409.17641)|null|
+|**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|1.BeihangUniversity <br>2.XiaohongshuInc <br>3.ZhongguancunLaboratory|[2409.17634](http://arxiv.org/abs/2409.17634)|null|
+|**2024-09-26**|**Leveraging Semantic and Geometric Information for Zero-Shot Robot-to-Human Handover**|1.SouthernUniversityofSciencea <br>ndTechnology <br>2.JiaxingResearchInstitute <br>3.ShenzhenKeyLaboratoryofRobot <br>icsPerceptionandIntelligence <br>4.ElectronicandElectricalEngin <br>eering|[2409.17621](http://arxiv.org/abs/2409.17621)|null|
+|**2024-09-26**|**ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue**|1.TsinghuaShenzhenInternationa <br>lGraduateSchool <br>2.TianjinUniversity 3.PAIIInc. <br>4.PingAnTechnology|[2409.17610](http://arxiv.org/abs/2409.17610)|null|
+|**2024-09-26**|**Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization**|1.TheUniversityofTokyo|[2409.17519](http://arxiv.org/abs/2409.17519)|null|
+|**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|1.LiaoningTechnicalUniversity <br>2.NortheasternUniversity <br>3.ChinaMedicalUniversity|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
+|**2024-09-26**|**CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches**|1. Université de Montréal & <br>MILA 2. Autodesk AI Lab|[2409.17457](http://arxiv.org/abs/2409.17457)|null|
+|**2024-09-25**|**VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection**|1.CARIAD SE 2.Technical <br>University Berlin|[2409.17330](http://arxiv.org/abs/2409.17330)|null|
+|**2024-09-25**|**Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation**|1.KULeuven 2.PekingUniversity <br>3.NanyangTechnologicalUniversi <br>ty 4.FudanUniversity|[2409.17313](http://arxiv.org/abs/2409.17313)|null|
 |**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|1. National University of <br>Singapore|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
 |**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|1.UCBerkeley <br>2.CornellUniversity|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
 |**2024-09-25**|**Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?**|1.Groundlight|[2409.17080](http://arxiv.org/abs/2409.17080)|null|
@@ -98,7 +116,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
