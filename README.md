@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -29,7 +29,7 @@
 |**2024-09-26**|**AP-VLM: Active Perception Enabled by Vision-Language Models**|1. University of Surrey|[2409.17641](http://arxiv.org/abs/2409.17641)|null|
 |**2024-09-26**|**P4Q: Learning to Prompt for Quantization in Visual-language Models**|1.BeihangUniversity <br>2.XiaohongshuInc <br>3.ZhongguancunLaboratory|[2409.17634](http://arxiv.org/abs/2409.17634)|null|
 |**2024-09-26**|**Leveraging Semantic and Geometric Information for Zero-Shot Robot-to-Human Handover**|1.SouthernUniversityofSciencea <br>ndTechnology <br>2.JiaxingResearchInstitute <br>3.ShenzhenKeyLaboratoryofRobot <br>icsPerceptionandIntelligence <br>4.ElectronicandElectricalEngin <br>eering|[2409.17621](http://arxiv.org/abs/2409.17621)|null|
-|**2024-09-26**|**ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue**|1.TsinghuaShenzhenInternationa <br>lGraduateSchool <br>2.TianjinUniversity 3.PAIIInc. <br>4.PingAnTechnology|[2409.17610](http://arxiv.org/abs/2409.17610)|null|
+|**2024-09-26**|**ZALM3: Zero-Shot Enhancement of Vision-Language Alignment via In-Context Information in Multi-Turn Multimodal Medical Dialogue**|1.Tsinghua Shenzhen <br>International Graduate School <br>2.Tianjin University <br>3.PAIIInc. 4.PingAn Technology|[2409.17610](http://arxiv.org/abs/2409.17610)|null|
 |**2024-09-26**|**Robotic Environmental State Recognition with Pre-Trained Vision-Language Models and Black-Box Optimization**|1.TheUniversityofTokyo|[2409.17519](http://arxiv.org/abs/2409.17519)|null|
 |**2024-09-26**|**Global-Local Medical SAM Adaptor Based on Full Adaption**|1.LiaoningTechnicalUniversity <br>2.NortheasternUniversity <br>3.ChinaMedicalUniversity|[2409.17486](http://arxiv.org/abs/2409.17486)|null|
 |**2024-09-26**|**CadVLM: Bridging Language and Vision in the Generation of Parametric CAD Sketches**|1. Université de Montréal & <br>MILA 2. Autodesk AI Lab|[2409.17457](http://arxiv.org/abs/2409.17457)|null|
@@ -116,7 +116,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
