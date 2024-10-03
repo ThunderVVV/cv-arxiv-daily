@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.28
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|1. University of Notre Dame 2. <br>Tencent AI Seattle Lab 3. UIUC|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-02**|**Why context matters in VQA and Reasoning: Semantic interventions for VLM input modalities**|1.ETHZurich 2.ETHAICenter <br>3.GermanCancerResearchCenter(D <br>KFZ) 4.IBMResearch|[2410.01690](http://arxiv.org/abs/2410.01690)|null|
+|**2024-10-02**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|1. Yale University 2. Imperial <br>College London 3. Australian <br>National University 4. <br>University of Georgia|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
+|**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|1. The Australian National <br>University 2. University of <br>O´buda 3. Curtin University|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
+|**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|1.AustralianNationalUniversity <br>2.Data61/CSIRO <br>3.CurtinUniversity|[2410.01506](http://arxiv.org/abs/2410.01506)|null|
+|**2024-10-02**|**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**|1.AcademiaSinica <br>2.NationalTaiwanUniversity <br>3.NationalYangMingChiaoTungUni <br>versity|[2410.01438](http://arxiv.org/abs/2410.01438)|null|
+|**2024-10-02**|**AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment**|1.MBZUAI|[2410.01407](http://arxiv.org/abs/2410.01407)|null|
+|**2024-10-02**|**Towards Generalizable Vision-Language Robotic Manipulation: A Benchmark and LLM-guided 3D Policy**|1.Inria 2.École normale <br>supérieure 3.CNRS 4.PSL <br>Research University|[2410.01345](http://arxiv.org/abs/2410.01345)|null|
+|**2024-10-02**|**Backdooring Vision-Language Models with Out-Of-Distribution Data**|1.StonyBrookUniversity <br>2.KingAbdullahUniversityofScie <br>nceandTechnology|[2410.01264](http://arxiv.org/abs/2410.01264)|null|
+|**2024-10-02**|**OCC-MLLM:Empowering Multimodal Large Language Model For the Understanding of Occluded Objects**|1. University of Toronto|[2410.01261](http://arxiv.org/abs/2410.01261)|null|
+|**2024-10-02**|**UAL-Bench: The First Comprehensive Unusual Activity Localization Benchmark**|1.Texas A&M University <br>2.University of Macau|[2410.01180](http://arxiv.org/abs/2410.01180)|null|
+|**2024-10-01**|**Can visual language models resolve textual ambiguity with visual cues? Let visual puns tell you!**|1. Yonsei University|[2410.01023](http://arxiv.org/abs/2410.01023)|null|
+|**2024-10-01**|**ScVLM: a Vision-Language Model for Driving Safety Critical Event Understanding**|1. Virginia Polytechnic <br>Institute and State University <br>2. Virginia Tech <br>Transportation Institute 3. <br>Department of Statistics|[2410.00982](http://arxiv.org/abs/2410.00982)|null|
+|**2024-10-01**|**Removing Distributional Discrepancies in Captions Improves Image-Text Alignment**|1. University of <br>Wisconsin-Madison 2. Adobe <br>Research|[2410.00905](http://arxiv.org/abs/2410.00905)|null|
+|**2024-10-01**|**Improved Generation of Synthetic Imaging Data Using Feature-Aligned Diffusion**|1.Boston|[2410.00731](http://arxiv.org/abs/2410.00731)|null|
+|**2024-10-01**|**Advancing Medical Radiograph Representation Learning: A Hybrid Pre-training Paradigm with Multilevel Semantic Granularity**|1.The Chinese University of <br>Hong Kong, Shenzhen 2.The <br>University of Georgia <br>3.Northwestern Polytechnical <br>University 4.University of <br>Illinois at Urbana-Champaign|[2410.00448](http://arxiv.org/abs/2410.00448)|null|
+|**2024-10-01**|**Find Everything: A General Vision Language Model Approach to Multi-Object Search**|1. University of Toronto 2. <br>Syncere AI|[2410.00388](http://arxiv.org/abs/2410.00388)|null|
+|**2024-10-01**|**AHA: A Vision-Language-Model for Detecting and Reasoning Over Failures in Robotic Manipulation**|1.NVIDIA <br>2.UniversityofWashington <br>3.UniversidadCatólicaSanPablo <br>4.MIT|[2410.00371](http://arxiv.org/abs/2410.00371)|null|
+|**2024-10-01**|**Vision Language Models Know Law of Conservation without Understanding More-or-Less**|1. University of Michigan 2. <br>University of North Carolina <br>at Chapel Hill 3. Johns <br>Hopkins University 4. <br>University of California, San <br>Diego|[2410.00332](http://arxiv.org/abs/2410.00332)|null|
+|**2024-10-01**|**Vision Language Models See What You Want but not What You See**|1. Johns Hopkins University 2. <br>University of California, San <br>Diego 3. University of North <br>Carolina at Chapel Hill 4. <br>University of Michigan|[2410.00324](http://arxiv.org/abs/2410.00324)|null|
 |**2024-09-26**|**LLaVA-3D: A Simple yet Effective Pathway to Empowering LMMs with 3D-awareness**|1.TheUniversityofHongKong <br>2.ShanghaiAILaboratory|[2409.18125](http://arxiv.org/abs/2409.18125)|null|
 |**2024-09-26**|**SKT: Integrating State-Aware Keypoint Trajectories with Vision-Language Models for Robotic Garment Manipulation**|1.Shanghai Jiao Tong <br>University 2.The Hong Kong <br>University of Science and <br>Technology 3.Department of <br>Computer Science, National <br>University of Singapore <br>4.CUHK-MMLab|[2409.18082](http://arxiv.org/abs/2409.18082)|null|
 |**2024-09-26**|**Infering Alt-text For UI Icons With Large Language Models During App Development**|1. University of Texas at <br>Arlington 2. University of <br>Texas at Arlington|[2409.18060](http://arxiv.org/abs/2409.18060)|null|
@@ -116,7 +136,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
