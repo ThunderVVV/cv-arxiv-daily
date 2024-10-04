@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,10 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|1. University of Notre Dame 2. <br>Tencent AI Seattle Lab 3. UIUC|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|1. University of California, <br>Berkeley|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
+|**2024-10-03**|**Contrastive Localized Language-Image Pre-Training**|1. Apple|[2410.02746](http://arxiv.org/abs/2410.02746)|null|
+|**2024-10-03**|**DivScene: Benchmarking LVLMs for Object Navigation with Diverse Scenes and Objects**|1. HKUST 2. Tencent AI Lab 3. <br>Robotics X 4. University of <br>Pennsylvania|[2410.02730](http://arxiv.org/abs/2410.02730)|null|
+|**2024-10-03**|**Unified Multi-Modal Interleaved Document Representation for Information Retrieval**|1.KAIST 2.DeepAuto|[2410.02729](http://arxiv.org/abs/2410.02729)|null|
+|**2024-10-03**|**Understanding and Mitigating Miscalibration in Prompt Tuning for Vision-Language Models**|1.SouthernUniversityofSciencea <br>ndTechnology <br>2.UniversityofWisconsin-Madiso <br>n|[2410.02681](http://arxiv.org/abs/2410.02681)|null|
+|**2024-10-03**|**LoGra-Med: Long Context Multi-Graph Alignment for Medical Vision-Language Model**|1. University of Stuttgart 2. <br>German Research Centre for <br>Artificial Intelligence 3. <br>Technical University of Munich <br>4. University Medical Center <br>Göttingen|[2410.02615](http://arxiv.org/abs/2410.02615)|null|
+|**2024-10-03**|**NL-Eye: Abductive NLI for Images**|1. Technion-IIT 2. Google <br>Research|[2410.02613](http://arxiv.org/abs/2410.02613)|null|
+|**2024-10-03**|**DTVLT: A Multi-modal Diverse Text Benchmark for Visual Language Tracking Based on LLM**|1. Chinese Academy of Sciences <br>2. University of Chinese <br>Academy of Sciences 3. Nanyang <br>Technological University 4. <br>CAS Center for Excellence in <br>Brain Science and Intelligence <br>Technology|[2410.02492](http://arxiv.org/abs/2410.02492)|null|
+|**2024-10-03**|**Guiding Long-Horizon Task and Motion Planning with Vision Language Models**|1.Massachusetts Institute of <br>Technology 2.NVIDIA Research|[2410.02193](http://arxiv.org/abs/2410.02193)|null|
+|**2024-10-02**|**Improving Autonomous AI Agents with Reflective Tree Search and Self-Learning**|1.ColumbiaUniversity <br>2.MicrosoftResearch|[2410.02052](http://arxiv.org/abs/2410.02052)|null|
+|**2024-10-02**|**Emo3D: Metric and Benchmarking Dataset for 3D Facial Expression Generation from Emotion Description**|1.SharifUniversityofTechnology <br>2.SharifUniversityofTechnology <br>3.SharifUniversityofTechnology <br>4.QatarComputingResearchInstit <br>ute|[2410.02049](http://arxiv.org/abs/2410.02049)|null|
+|**2024-10-02**|**Quantifying the Gaps Between Translation and Native Perception in Training for Multimodal, Multilingual Retrieval**|1. Intelligent Systems Program <br>2. Department of Computer <br>Science, University of <br>Pittsburgh|[2410.02027](http://arxiv.org/abs/2410.02027)|null|
+|**2024-10-02**|**Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust**|1. Princeton University|[2410.01971](http://arxiv.org/abs/2410.01971)|null|
+|**2024-10-02**|**Enhancing Screen Time Identification in Children with a Multi-View Vision Language Model and Screen Time Tracker**|1. Stevens Institute of <br>Technology 2. Iowa State <br>University 3. Columbia <br>University in the City of New <br>York 4. Nokia Bell Labs|[2410.01966](http://arxiv.org/abs/2410.01966)|null|
+|**2024-10-02**|**MARPLE: A Benchmark for Long-Horizon Inference**|1.StanfordUniversity|[2410.01926](http://arxiv.org/abs/2410.01926)|null|
+|**2024-10-02**|**A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation**|1.PekingUniversity <br>2.AlibabaGroup <br>3.UniversityofWisconsin–Madiso <br>n <br>4.BeijingInstituteofTechnology|[2410.01912](http://arxiv.org/abs/2410.01912)|**[link](https://github.com/chenllliang/dnd-transformer)**|
+|**2024-10-03**|**Leopard: A Vision Language Model For Text-Rich Multi-Image Tasks**|1. University of Notre Dame 2. <br>Tencent AI Seattle Lab 3. UIUC|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
 |**2024-10-02**|**Why context matters in VQA and Reasoning: Semantic interventions for VLM input modalities**|1.ETHZurich 2.ETHAICenter <br>3.GermanCancerResearchCenter(D <br>KFZ) 4.IBMResearch|[2410.01690](http://arxiv.org/abs/2410.01690)|null|
-|**2024-10-02**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|1. Yale University 2. Imperial <br>College London 3. Australian <br>National University 4. <br>University of Georgia|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
-|**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|1. The Australian National <br>University 2. University of <br>O´buda 3. Curtin University|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
+|**2024-10-03**|**LMOD: A Large Multimodal Ophthalmology Dataset and Benchmark for Large Vision-Language Models**|1. Yale University 2. Imperial <br>College London 3. Australian <br>National University 4. <br>University of Georgia|[2410.01620](http://arxiv.org/abs/2410.01620)|null|
+|**2024-10-02**|**Toward a Holistic Evaluation of Robustness in CLIP Models**|1.TheAustralianNationalUnivers <br>ity 2.TheUniversityofO´buda <br>3.CurtinUniversity|[2410.01534](http://arxiv.org/abs/2410.01534)|null|
 |**2024-10-02**|**LEGO: Learnable Expansion of Graph Operators for Multi-Modal Feature Fusion**|1.AustralianNationalUniversity <br>2.Data61/CSIRO <br>3.CurtinUniversity|[2410.01506](http://arxiv.org/abs/2410.01506)|null|
 |**2024-10-02**|**Information-Theoretical Principled Trade-off between Jailbreakability and Stealthiness on Vision Language Models**|1.AcademiaSinica <br>2.NationalTaiwanUniversity <br>3.NationalYangMingChiaoTungUni <br>versity|[2410.01438](http://arxiv.org/abs/2410.01438)|null|
 |**2024-10-02**|**AgriCLIP: Adapting CLIP for Agriculture and Livestock via Domain-Specialized Cross-Model Alignment**|1.MBZUAI|[2410.01407](http://arxiv.org/abs/2410.01407)|null|
@@ -136,7 +152,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241004>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
