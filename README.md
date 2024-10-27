@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.21
+## Updated on 2024.10.27
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Probabilistic Language-Image Pre-Training**|1. NAVER AI Lab|[2410.18857](http://arxiv.org/abs/2410.18857)|null|
+|**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|1. New York University Abu <br>Dhabi 2. New York University <br>3. China Academic of <br>Electronics and Information <br>Technology 4. Tsinghua <br>University|[2410.18570](http://arxiv.org/abs/2410.18570)|null|
+|**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|1. BAAI 2. BJTU 3. BUPT 4. <br>ICT/CAS|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
+|**2024-10-24**|**Beyond Color and Lines: Zero-Shot Style-Specific Image Variations with Coordinated Semantics**|1. Northwest University|[2410.18537](http://arxiv.org/abs/2410.18537)|null|
+|**2024-10-24**|**Interpretable Bilingual Multimodal Large Language Model for Diverse Biomedical Tasks**|1. The Hong Kong University of <br>Science and Technology 2. Sun <br>Yat-Sen Memorial Hospital, Sun <br>Yat-Sen University|[2410.18387](http://arxiv.org/abs/2410.18387)|null|
+|**2024-10-23**|**Lightweight Neural App Control**|1. Huawei Noah’sArkLab 2. <br>University College London|[2410.17883](http://arxiv.org/abs/2410.17883)|null|
+|**2024-10-23**|**ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting**|1.PKU, 2.UCLA, 3.BIGAI|[2410.17856](http://arxiv.org/abs/2410.17856)|null|
+|**2024-10-23**|**RE-tune: Incremental Fine Tuning of Biomedical Vision-Language Models for Multi-label Chest X-ray Classification**|1. Università degli Studi di <br>Firenze|[2410.17827](http://arxiv.org/abs/2410.17827)|null|
+|**2024-10-23**|**An Intelligent Agentic System for Complex Image Restoration Problems**|1. <br>ShanghaiArtificialIntelligence <br>Laboratory 2. <br>ShanghaiJiaoTongUniversity 3. <br>TheUniversityofSydney 4. <br>TheChineseUniversityofHongKong|[2410.17809](http://arxiv.org/abs/2410.17809)|**[link](https://github.com/Kaiwen-Zhu/AgenticIR)**|
+|**2024-10-23**|**ADEM-VL: Adaptive and Embedded Fusion for Efficient Vision-Language Tuning**|1. Beijing Institute of <br>Technology 2. The University <br>of Sydney 3. Sun Yat-sen <br>University 4. Wuhan University|[2410.17779](http://arxiv.org/abs/2410.17779)|**[link](https://github.com/hao840/adem-vl)**|
+|**2024-10-23**|**Scaling Robot Policy Learning via Zero-Shot Labeling with Foundation Models**|1. Karlsruhe Institute of <br>Technology 2. UC Berkeley|[2410.17772](http://arxiv.org/abs/2410.17772)|null|
+|**2024-10-23**|**MIA-DPO: Multi-Image Augmented Direct Preference Optimization For Large Vision-Language Models**|1. SJTU 2. Shanghai AI <br>Laboratory 3. CUHK 4. <br>MThreads, Inc.|[2410.17637](http://arxiv.org/abs/2410.17637)|**[link](https://github.com/liuziyu77/mia-dpo)**|
+|**2024-10-22**|**AdvWeb: Controllable Black-box Attacks on VLM-powered Web Agents**|1. University of Illinois <br>Urbana-Champaign 2. University <br>of Chicago 3. The Ohio State <br>University 4. University of <br>Science and Technology of <br>China|[2410.17401](http://arxiv.org/abs/2410.17401)|null|
+|**2024-10-22**|**Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference Under Ambiguities**| |[2410.17385](http://arxiv.org/abs/2410.17385)|null|
+|**2024-10-22**|**PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction**|1. USTC 2. Shanghai AI <br>Laboratory 3. CUHK|[2410.17247](http://arxiv.org/abs/2410.17247)|**[link](https://github.com/cooperx521/pyramiddrop)**|
+|**2024-10-22**|**Frontiers in Intelligent Colonoscopy**|1. Nankai Institute of <br>Advanced Research 2. College <br>of Computer Science & VCIP, <br>Nankai University 3. School of <br>Computing, Australian National <br>University 4. Graduate School <br>of Science and Technology, <br>Keio University|[2410.17241](http://arxiv.org/abs/2410.17241)|**[link](https://github.com/ai4colonoscopy/intelliscope)**|
+|**2024-10-22**|**Improving Pinterest Search Relevance Using Large Language Models**|1. Pinterest 2. Pinterest 3. <br>Pinterest 4. Pinterest|[2410.17152](http://arxiv.org/abs/2410.17152)|null|
+|**2024-10-22**|**Are Visual-Language Models Effective in Action Recognition? A Comparative Study**|1. Inria Center at Université <br>Côte d’Azur|[2410.17149](http://arxiv.org/abs/2410.17149)|null|
+|**2024-10-22**|**MPDS: A Movie Posters Dataset for Image Generation with Diffusion Model**|1. Nanjing University of <br>Science and Technology 2. <br>SeetaCloud|[2410.16840](http://arxiv.org/abs/2410.16840)|null|
+|**2024-10-22**|**AttriPrompter: Auto-Prompting with Attribute Semantics for Zero-shot Nuclei Detection via Visual-Language Pre-trained Models**|1. Beihang University 2. <br>ByteDance Inc. 3. Zhejiang <br>University 4. Chinese Academy <br>of Medical Sciences|[2410.16820](http://arxiv.org/abs/2410.16820)|**[link](https://github.com/wuyongjiancode/attriprompter)**|
 |**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|1. CUHKMMLab 2. HKUMMLab 3. <br>SenseTime 4. <br>ShanghaiAILaboratory|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|1. The Chinese University of <br>Hong Kong 2. Zhejiang <br>University 3. Shanghai AI <br>Laboratory 4. Centre for <br>Perceptual and Interactive <br>Intelligence|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
 |**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|1. Technical University of <br>Denmark 2. OpenGVLab, Shanghai <br>AI Laboratory 3. Xiamen <br>University 4. National <br>University of Singapore|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
@@ -162,7 +182,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241027>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
