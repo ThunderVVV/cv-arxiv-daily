@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.27
+## Updated on 2024.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**HyperSeg: Towards Universal Visual Segmentation with Large Language Model**|1. Tsinghua Shenzhen <br>International Graduate School, <br>Tsinghua University 2. Meituan <br>Inc.|[2411.17606](http://arxiv.org/abs/2411.17606)|null|
+|**2024-11-26**|**Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey**|1. SunYat-sen University 2. <br>Tsinghua University 3. <br>Worcester Polytechnic <br>Institute|[2411.17558](http://arxiv.org/abs/2411.17558)|null|
+|**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|1.WeizmannInstituteofScience|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
+|**2024-11-26**|**ShowUI: One Vision-Language-Action Model for GUI Visual Agent**|1. National University of <br>Singapore 2. Microsoft|[2411.17465](http://arxiv.org/abs/2411.17465)|**[link](https://github.com/showlab/showui)**|
+|**2024-11-26**|**FLEX-CLIP: Feature-Level GEneration Network Enhanced CLIP for X-shot Cross-modal Retrieval**|1. Sun Yat-sen University|[2411.17454](http://arxiv.org/abs/2411.17454)|null|
+|**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**| |[2411.17451](http://arxiv.org/abs/2411.17451)|null|
+|**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|1. School of Computer Science <br>and Technology, China <br>University of Mining and <br>Technology|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
+|**2024-11-26**|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|1. University of Washington 2. <br>HUST 3. University of Notre <br>Dame|[2411.17188](http://arxiv.org/abs/2411.17188)|null|
+|**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|1. Yonsei University 2. <br>University of California, <br>Merced|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
+|**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|1. KAIST|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
+|**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|1. LIVIA, ÉTS Montréal, Canada <br>2. International Laboratory on <br>Learning Systems (ILLS), <br>Canada 3. McGill University, <br>Canada 4. MILA, Canada|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
+|**2024-11-25**|**Probing the limitations of multimodal language models for chemistry and materials research**| |[2411.16955](http://arxiv.org/abs/2411.16955)|**[link](https://github.com/lamalab-org/mac-bench)**|
+|**2024-11-25**|**CLIPS: An Enhanced CLIP Framework for Learning with Synthetic Captions**|1. UCSantaCruz 2. <br>UniversityofEdinburgh|[2411.16828](http://arxiv.org/abs/2411.16828)|null|
+|**2024-11-25**|**Beyond Sight: Towards Cognitive Alignment in LVLM via Enriched Visual Knowledge**|1. Peking University 2. <br>University of Science and <br>Technology of China 3. <br>Baichuan Inc.|[2411.16824](http://arxiv.org/abs/2411.16824)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|1. MIT CSAIL 2. UMass Amherst <br>3. TRI 4. MIT LIDS|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
+|**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|1. The Ohio State University <br>2. NVIDIA|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
+|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|1. University of Chicago 2. <br>Pritzker School of Medicine 3. <br>Center for Translational Data <br>Science, University of Chicago <br>4. Department of Medicine, <br>University of Chicago|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
+|**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|1. Beijing Normal University <br>2. University of Chinese <br>Academy of Sciences 3. The <br>University of Manchester 4. <br>The Chinese University of Hong <br>Kong, Shenzhen|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
+|**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|1. TU Berlin 2. Ostfalia <br>University of Applied Sciences <br>3. CARIAD SE 4. Kiel <br>University|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
+|**2024-11-25**|**CapHDR2IR: Caption-Driven Transfer from Visible Light to Infrared Domain**|1. WMG, University of Warwick <br>2. School of Information <br>Science and Technology, East <br>China University of Science <br>and Technology 3. School of <br>Engineering, Newcastle <br>University|[2411.16327](http://arxiv.org/abs/2411.16327)|null|
 |**2024-10-24**|**Probabilistic Language-Image Pre-Training**|1. NAVER AI Lab|[2410.18857](http://arxiv.org/abs/2410.18857)|null|
 |**2024-10-24**|**Zero-shot Object Navigation with Vision-Language Models Reasoning**|1. New York University Abu <br>Dhabi 2. New York University <br>3. China Academic of <br>Electronics and Information <br>Technology 4. Tsinghua <br>University|[2410.18570](http://arxiv.org/abs/2410.18570)|null|
 |**2024-10-24**|**Infinity-MM: Scaling Multimodal Performance with Large-Scale and High-Quality Instruction Data**|1. BAAI 2. BJTU 3. BUPT 4. <br>ICT/CAS|[2410.18558](http://arxiv.org/abs/2410.18558)|null|
@@ -182,7 +202,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241027>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
