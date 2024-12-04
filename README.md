@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.28
+## Updated on 2024.12.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|1. German Cancer Research <br>Center (DKFZ) Heidelberg 2. <br>University of Heidelberg 3. <br>Heidelberg University Hospital <br>4. National Center for Tumor <br>Diseases (NCT) Heidelberg|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
+|**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|1. Mass General Brigham, <br>Harvard Medical School 2. <br>Dana-Farber Cancer Institute <br>3. Broad Institute of Harvard <br>and MIT 4. Harvard University|[2411.19666](http://arxiv.org/abs/2411.19666)|**[link](https://github.com/mahmoodlab/titan)**|
+|**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|1. Tsinghua University 2. <br>Microsoft Research Asia 3. <br>USTC 4. Institute of <br>Microelectronics, CAS|[2411.19650](http://arxiv.org/abs/2411.19650)|null|
+|**2024-11-29**|**Interleaved-Modal Chain-of-Thought**|1. Soochow University 2. The <br>Hong Kong Polytechnic <br>University|[2411.19488](http://arxiv.org/abs/2411.19488)|null|
+|**2024-11-29**|**Effective Fine-Tuning of Vision-Language Models for Accurate Galaxy Morphology Analysis**|1. HKUST(GZ) 2. SYSU 3. HKUST|[2411.19475](http://arxiv.org/abs/2411.19475)|null|
+|**2024-11-28**|**Libra: Leveraging Temporal Images for Biomedical Radiology Analysis**|1. University of Glasgow 2. <br>AI4BioMed Lab 3. Information <br>Retrieval Group|[2411.19378](http://arxiv.org/abs/2411.19378)|**[link](https://github.com/X-iZhang/Libra)**|
+|**2024-11-28**|**Talking to DINO: Bridging Self-Supervised Vision Backbones with Language for Open-Vocabulary Segmentation**|1. University of Modena and <br>Reggio Emilia 2. ISTI-CNR 3. <br>University of Pisa|[2411.19331](http://arxiv.org/abs/2411.19331)|null|
+|**2024-11-28**|**GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks**|1. <br>MohamedbinZayedUniversityofArt <br>ificialIntelligence 2. <br>UniversityCollegeLondon 3. <br>Linko¨pingUniversity 4. <br>IBMResearchEurope|[2411.19325](http://arxiv.org/abs/2411.19325)|**[link](https://github.com/the-ai-alliance/geo-bench-vlm)**|
+|**2024-11-28**|**GRAPE: Generalizing Robot Policy via Preference Alignment**|1. UNC Chapel Hill 2. <br>University of Washington 3. <br>University of Chicago|[2411.19309](http://arxiv.org/abs/2411.19309)|null|
+|**2024-11-28**|**VARCO-VISION: Expanding Frontiers in Korean Vision-Language Models**|1. NCSOFT|[2411.19103](http://arxiv.org/abs/2411.19103)|null|
+|**2024-11-28**|**MaskRIS: Semantic Distortion-aware Data Augmentation for Referring Image Segmentation**|1. Yonsei University 2. <br>NAVERAI Lab 3. KAIST AI 4. (No <br>fourth unique affiliation)|[2411.19067](http://arxiv.org/abs/2411.19067)|**[link](https://github.com/naver-ai/maskris)**|
+|**2024-11-27**|**ELEMENTAL: Interactive Learning from Demonstrations and Vision-Language Models for Reward Design in Robotics**|1. Georgia Institute of <br>Technology|[2411.18825](http://arxiv.org/abs/2411.18825)|null|
+|**2024-11-27**|**Generative Visual Communication in the Era of Vision-Language Models**|1. Tel Aviv University 2. <br>Raymond and Beverly Sackler <br>Faculty of Exact Sciences 3. <br>Blavatnik School of Computer <br>Science|[2411.18727](http://arxiv.org/abs/2411.18727)|null|
+|**2024-11-27**|**Evaluating Vision-Language Models as Evaluators in Path Planning**|1. George Mason University 2. <br>Carnegie Mellon University 3. <br>National Science Foundation|[2411.18711](http://arxiv.org/abs/2411.18711)|null|
+|**2024-11-27**|**Embodied Red Teaming for Auditing Robotic Foundation Models**|1. Massachusetts Institute of <br>Technology 2. NVIDIA 3. <br>Improbable AI Lab|[2411.18676](http://arxiv.org/abs/2411.18676)|null|
+|**2024-11-27**|**FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models**|1. Stanford University 2. <br>Harvard University|[2411.18672](http://arxiv.org/abs/2411.18672)|null|
+|**2024-11-27**|**3D Scene Graph Guided Vision-Language Pre-training**|1. Nanyang Technological <br>University 2. Sun Yat-Sen <br>University 3. South China <br>University of Technology|[2411.18666](http://arxiv.org/abs/2411.18666)|null|
+|**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|1. University of Amsterdam 2. <br>University of Copenhagen 3. <br>Technical University of Munich|[2411.18620](http://arxiv.org/abs/2411.18620)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|1. Stanford University 2. <br>Stanford University 3. <br>Stanford University 4. <br>Stanford University|[2411.18616](http://arxiv.org/abs/2411.18616)|null|
+|**2024-11-27**|**AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans**|1. Hiverlab Pte. Ltd. 2. <br>NVIDIA 3. Shanghai University <br>4. Singapore Institute of <br>Technology|[2411.18539](http://arxiv.org/abs/2411.18539)|**[link](https://github.com/dillonloh/adavln)**|
 |**2024-11-26**|**HyperSeg: Towards Universal Visual Segmentation with Large Language Model**|1. Tsinghua Shenzhen <br>International Graduate School, <br>Tsinghua University 2. Meituan <br>Inc.|[2411.17606](http://arxiv.org/abs/2411.17606)|null|
 |**2024-11-26**|**Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey**|1. SunYat-sen University 2. <br>Tsinghua University 3. <br>Worcester Polytechnic <br>Institute|[2411.17558](http://arxiv.org/abs/2411.17558)|null|
 |**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|1.WeizmannInstituteofScience|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
@@ -202,7 +222,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241128>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
