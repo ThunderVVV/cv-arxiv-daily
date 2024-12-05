@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|1.GoogleDeepMind <br>2.TheUniversityofTokyo <br>3.StanfordUniversity|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|1. Synechron, Bangalore, India <br>2. Synechron, Bangalore, India <br>3. Synechron, Bangalore, India <br>4. Synechron, Bangalore, India|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|1. Shanghai AI Laboratory 2. <br>Peking University 3. The <br>University of Hong Kong 4. <br>Beihang University|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|1. Beihang University 2. <br>Shanghai Artificial <br>Intelligence Laboratory|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|1. Tsinghua University|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|1. Purdue University 2. Purdue <br>University|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
+|**2024-12-03**|**OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations**|1. Beihang University 2. China <br>Academy of Information and <br>Communications Technology|[2412.02479](http://arxiv.org/abs/2412.02479)|null|
+|**2024-12-03**|**BYE: Build Your Encoder with One Sequence of Exploration Data for Long-Term Dynamic Scene Understanding**|1. University of Freiburg 2. <br>University of Technology <br>Nuremberg|[2412.02449](http://arxiv.org/abs/2412.02449)|null|
+|**2024-12-03**|**Composing Open-domain Vision with RAG for Ocean Monitoring and Conservation**|1. OnDeck Fisheries AI|[2412.02262](http://arxiv.org/abs/2412.02262)|null|
+|**2024-12-03**|**LayoutVLM: Differentiable Optimization of 3D Layout via Vision-Language Models**|1. Stanford University, 2. <br>Google Research|[2412.02193](http://arxiv.org/abs/2412.02193)|null|
+|**2024-12-03**|**Anatomically-Grounded Fact Checking of Automated Chest X-ray Reports**|1. Rensselaer Polytechnic <br>Institute 2. Massachusetts <br>General Hospital 3. Harvard <br>University 4. IBM <br>Research-Almaden|[2412.02177](http://arxiv.org/abs/2412.02177)|null|
+|**2024-12-03**|**VISCO: Benchmarking Fine-Grained Critique and Correction Towards Self-Improvement in Visual Reasoning**|1. University of California, <br>Los Angeles 2. Stanford|[2412.02172](http://arxiv.org/abs/2412.02172)|null|
+|**2024-12-03**|**Progress-Aware Video Frame Captioning**|1. UTAustin|[2412.02071](http://arxiv.org/abs/2412.02071)|null|
+|**2024-12-02**|**X-Prompt: Towards Universal In-Context Image Generation in Auto-Regressive Vision Language Foundation Models**|1. Shanghai Jiao Tong <br>University 2. Shanghai AI <br>Laboratory 3. Tsinghua <br>University 4. The Chinese <br>University of Hong Kong|[2412.01824](http://arxiv.org/abs/2412.01824)|**[link](https://github.com/sunzey/x-prompt)**|
+|**2024-12-02**|**VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models**|1.NVIDIA, 2.KAIST|[2412.01822](http://arxiv.org/abs/2412.01822)|null|
+|**2024-12-04**|**Towards Universal Soccer Video Understanding**|1. Shanghai JiaoTong <br>University 2. Alibaba Group|[2412.01820](http://arxiv.org/abs/2412.01820)|**[link](https://github.com/jyrao/UniSoccer)**|
+|**2024-12-02**|**[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster**|1. Peking University 2. <br>ByteDance 3. IntelLabsChina|[2412.01818](http://arxiv.org/abs/2412.01818)|**[link](https://github.com/theia-4869/fastervlm)**|
+|**2024-12-02**|**COSMOS: Cross-Modality Self-Distillation for Vision Language Pre-training**|1. Helmholtz Munich 2. TUM 3. <br>MCML 4. MDSI|[2412.01814](http://arxiv.org/abs/2412.01814)|null|
+|**2024-12-02**|**Occam's LGS: A Simple Approach for Language Gaussian Splatting**|1. Johns Hopkins University 2. <br>INSAIT, Sofia University|[2412.01807](http://arxiv.org/abs/2412.01807)|null|
+|**2024-12-02**|**LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant**|1. School of Artificial <br>Intelligence, Shanghai Jiao <br>Tong University 2. CMIC, <br>Shanghai Jiao Tong University <br>3. Xiaohongshu Inc.|[2412.01720](http://arxiv.org/abs/2412.01720)|null|
 |**2024-11-29**|**SURE-VQA: Systematic Understanding of Robustness Evaluation in Medical VQA Tasks**|1. German Cancer Research <br>Center (DKFZ) Heidelberg 2. <br>University of Heidelberg 3. <br>Heidelberg University Hospital <br>4. National Center for Tumor <br>Diseases (NCT) Heidelberg|[2411.19688](http://arxiv.org/abs/2411.19688)|**[link](https://github.com/iml-dkfz/sure-vqa)**|
 |**2024-11-29**|**Multimodal Whole Slide Foundation Model for Pathology**|1. Mass General Brigham, <br>Harvard Medical School 2. <br>Dana-Farber Cancer Institute <br>3. Broad Institute of Harvard <br>and MIT 4. Harvard University|[2411.19666](http://arxiv.org/abs/2411.19666)|**[link](https://github.com/mahmoodlab/titan)**|
 |**2024-11-29**|**CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation**|1. Tsinghua University 2. <br>Microsoft Research Asia 3. <br>USTC 4. Institute of <br>Microelectronics, CAS|[2411.19650](http://arxiv.org/abs/2411.19650)|null|
@@ -222,7 +242,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241204>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
