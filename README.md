@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.05
+## Updated on 2024.12.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,11 +17,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|1.GoogleDeepMind <br>2.TheUniversityofTokyo <br>3.StanfordUniversity|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
+|**2024-12-04**|**Streaming Detection of Queried Event Start**|1. Stanford University 2. <br>Stanford University 3. <br>Stanford University 4. <br>Stanford University|[2412.03567](http://arxiv.org/abs/2412.03567)|null|
+|**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|1. Technical University of <br>Munich 2. Helmholtz Munich 3. <br>MCML 4. MDSI|[2412.03561](http://arxiv.org/abs/2412.03561)|**[link](https://github.com/explainableml/flair)**|
+|**2024-12-04**|**Best-of-N Jailbreaking**|1. Speechmatics 2. MATS 3. UCL <br>4. Stanford University|[2412.03556](http://arxiv.org/abs/2412.03556)|null|
+|**2024-12-04**|**PaliGemma 2: A Family of Versatile VLMs for Transfer**|1. Google DeepMind 2. Google <br>DeepMind 3. Google DeepMind 4. <br>Google DeepMind|[2412.03555](http://arxiv.org/abs/2412.03555)|null|
+|**2024-12-04**|**PrefixKV: Adaptive Prefix KV Cache is What Vision Instruction-Following Models Need for Efficient Generation**|1. Tsinghua University 2. <br>Tsinghua University 3. <br>Tsinghua University 4. Meituan <br>Inc.|[2412.03409](http://arxiv.org/abs/2412.03409)|**[link](https://github.com/THU-MIG/PrefixKV)**|
+|**2024-12-04**|**A Stitch in Time Saves Nine: Small VLM is a Precise Guidance for accelerating Large VLMs**|1. National University of <br>Singapore 2. DAMO Academy, <br>Alibaba Group 3. Hupan Lab 4. <br>The University of Texas at <br>Austin|[2412.03324](http://arxiv.org/abs/2412.03324)|null|
+|**2024-12-04**|**Composed Image Retrieval for Training-Free Domain Conversion**|1. Czech Technical University <br>in Prague 2. National <br>Technical University of Athens <br>3. Institute of Advanced <br>Research in Artificial <br>Intelligence (IARAI), Austria|[2412.03297](http://arxiv.org/abs/2412.03297)|**[link](https://github.com/nikosefth/freedom)**|
+|**2024-12-04**|**Towards Understanding and Quantifying Uncertainty for Text-to-Image Generation**|1. ENSTA Paris, Institut <br>Polytechnique de Paris 2. <br>Mirai 3. Imperial College <br>London 4. NVIDIA|[2412.03178](http://arxiv.org/abs/2412.03178)|null|
+|**2024-12-04**|**AdvDreamer Unveils: Are Vision-Language Models Truly Ready for Real-World 3D Variations?**|1. Institute of Artificial <br>Intelligence, Beihang <br>University 2. Dept. of Comp. <br>Sci. and Tech., Institute for <br>AI, Tsinghua University|[2412.03002](http://arxiv.org/abs/2412.03002)|null|
+|**2024-12-04**|**Progressive Vision-Language Prompt for Multi-Organ Multi-Class Cell Semantic Segmentation with Single Branch**|1. East China Normal <br>University 2. Nanyang <br>Technological University|[2412.02978](http://arxiv.org/abs/2412.02978)|null|
+|**2024-12-04**|**Who Brings the Frisbee: Probing Hidden Hallucination Factors in Large Vision-Language Model via Causality Analysis**|1.InventecCorporation <br>2.UniversityatAlbany-SUNY|[2412.02946](http://arxiv.org/abs/2412.02946)|null|
+|**2024-12-03**|**Patchfinder: Leveraging Visual Language Models for Accurate Information Retrieval using Model Uncertainty**|1. Earth and Environmental <br>Sciences, Los Alamos National <br>Laboratory 2. Theoretical <br>Division, Los Alamos National <br>Laboratory|[2412.02886](http://arxiv.org/abs/2412.02886)|null|
+|**2024-12-03**|**Gaussian Splatting Under Attack: Investigating Adversarial Noise in 3D Objects**|1. Wentworth Institute of <br>Technology 2. School of <br>Computing and Data Science|[2412.02803](http://arxiv.org/abs/2412.02803)|null|
+|**2024-12-03**|**Synergistic Development of Perovskite Memristors and Algorithms for Robust Analog Computing**|1. Shanghai Jiao Tong <br>University 2. Shanghai <br>Artificial Intelligence <br>Laboratory 3. Tsinghua <br>University 4. Fudan University|[2412.02779](http://arxiv.org/abs/2412.02779)|null|
+|**2024-12-03**|**Improving Dynamic Object Interactions in Text-to-Video Generation with AI Feedback**|1. Google DeepMind 2. The <br>University of Tokyo 3. <br>Stanford University|[2412.02617](http://arxiv.org/abs/2412.02617)|null|
 |**2024-12-03**|**CEGI: Measuring the trade-off between efficiency and carbon emissions for SLMs and VLMs**|1. Synechron, Bangalore, India <br>2. Synechron, Bangalore, India <br>3. Synechron, Bangalore, India <br>4. Synechron, Bangalore, India|[2412.02602](http://arxiv.org/abs/2412.02602)|null|
-|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|1. Shanghai AI Laboratory 2. <br>Peking University 3. The <br>University of Hong Kong 4. <br>Beihang University|[2412.02592](http://arxiv.org/abs/2412.02592)|**[link](https://github.com/opendatalab/OHR-Bench)**|
+|**2024-12-03**|**OCR Hinders RAG: Evaluating the Cascading Impact of OCR on Retrieval-Augmented Generation**|1. Shanghai AI Laboratory 2. <br>Peking University 3. The <br>University of Hong Kong 4. <br>Beihang University|[2412.02592](http://arxiv.org/abs/2412.02592)|null|
 |**2024-12-03**|**Remote Sensing Temporal Vision-Language Models: A Comprehensive Survey**|1. Beihang University 2. <br>Shanghai Artificial <br>Intelligence Laboratory|[2412.02573](http://arxiv.org/abs/2412.02573)|**[link](https://github.com/chen-yang-liu/awesome-rs-temporal-vlm)**|
-|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|1. Tsinghua University|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
+|**2024-12-03**|**SJTU:Spatial judgments in multimodal models towards unified segmentation through coordinate detection**|1. Institute of <br>Biopharmaceutical and Health <br>Engineering, Shenzhen <br>International Graduate School, <br>Tsinghua University|[2412.02565](http://arxiv.org/abs/2412.02565)|null|
 |**2024-12-03**|**Multimodal Remote Sensing Scene Classification Using VLMs and Dual-Cross Attention Networks**|1. Purdue University 2. Purdue <br>University|[2412.02531](http://arxiv.org/abs/2412.02531)|null|
 |**2024-12-03**|**OODFace: Benchmarking Robustness of Face Recognition under Common Corruptions and Appearance Variations**|1. Beihang University 2. China <br>Academy of Information and <br>Communications Technology|[2412.02479](http://arxiv.org/abs/2412.02479)|null|
 |**2024-12-03**|**BYE: Build Your Encoder with One Sequence of Exploration Data for Long-Term Dynamic Scene Understanding**|1. University of Freiburg 2. <br>University of Technology <br>Nuremberg|[2412.02449](http://arxiv.org/abs/2412.02449)|null|
@@ -242,7 +256,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241205>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
