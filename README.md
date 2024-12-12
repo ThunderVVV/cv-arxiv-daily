@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.06
+## Updated on 2024.12.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -17,6 +17,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|1. University of Toronto 2. <br>Autodesk Research|[2412.08619](http://arxiv.org/abs/2412.08619)|null|
+|**2024-12-11**|**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**|1. USTC 2. AntGroup 3. <br>Northeastern University, China|[2412.08614](http://arxiv.org/abs/2412.08614)|**[link](https://github.com/lufan31/comprecap)**|
+|**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|1. Mediterranean Agronomic <br>Institute of <br>Montpellier-CIHEAM-IAMM 2. <br>Inria 3. INRAE 4. Cirad|[2412.08536](http://arxiv.org/abs/2412.08536)|null|
+|**2024-12-11**|**POINTS1.5: Building a Vision-Language Model towards Real World Applications**|1. WeChat AI, Tencent Inc.|[2412.08443](http://arxiv.org/abs/2412.08443)|null|
+|**2024-12-11**|**LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba**|1. Northeastern University|[2412.08388](http://arxiv.org/abs/2412.08388)|null|
+|**2024-12-11**|**HyViLM: Enhancing Fine-Grained Recognition with a Hybrid Encoder for Vision-Language Models**|1. Zhejiang University 2. <br>Taobao & Tmall Group of <br>Alibaba 3. USTC|[2412.08378](http://arxiv.org/abs/2412.08378)|null|
+|**2024-12-11**|**Position-aware Guided Point Cloud Completion with CLIP Model**|1. <br>NorthChinaUniversityofTechnolo <br>gy 2. PengChengLaboratory 3. <br>UniversityofCopenhagen 4. <br>UniversityofWashington|[2412.08271](http://arxiv.org/abs/2412.08271)|null|
+|**2024-12-11**|**FLIP: Flow-Centric Generative Planning for General-Purpose Manipulation Tasks**|1. National University of <br>Singapore 2. Peking University <br>3. National University of <br>Singapore 4. National <br>University of Singapore|[2412.08261](http://arxiv.org/abs/2412.08261)|null|
+|**2024-12-11**|**VSD2M: A Large-scale Vision-language Sticker Dataset for Multi-frame Animated Sticker Generation**|1. WechatAI, Tencent|[2412.08259](http://arxiv.org/abs/2412.08259)|null|
+|**2024-12-11**|**TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**|1. Xiamen University|[2412.08176](http://arxiv.org/abs/2412.08176)|**[link](https://github.com/xjjxmu/textrefiner)**|
+|**2024-12-11**|**How Vision-Language Tasks Benefit from Large Pre-trained Models: A Survey**|1. Beijing Laboratory of <br>Intelligent Information <br>Technology, School of Computer <br>Science, Beijing Institute of <br>Technology 2. Guangdong <br>Provincial Laboratory of <br>Machine Perception and <br>Intelligent Computing, <br>Shenzhen MSU-BIT University 3. <br>Department of Computer <br>Science, University of <br>Rochester|[2412.08158](http://arxiv.org/abs/2412.08158)|null|
+|**2024-12-11**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|1.Deakin University 2.Posts <br>and Telecommunications <br>Institute of Technology <br>3.University of Arkansas|[2412.08125](http://arxiv.org/abs/2412.08125)|null|
+|**2024-12-11**|**Seeing Syntax: Uncovering Syntactic Learning Limitations in Vision-Language Models**|1. Dalhousie University 2. <br>Heinrich Heine University <br>Düsseldorf|[2412.08111](http://arxiv.org/abs/2412.08111)|null|
+|**2024-12-11**|**Barking Up The Syntactic Tree: Enhancing VLM Training with Syntactic Losses**|1. University of British <br>Columbia 2. Vector Institute <br>for AI 3. Nanyang <br>Technological University|[2412.08110](http://arxiv.org/abs/2412.08110)|null|
+|**2024-12-11**|**Doubly-Universal Adversarial Perturbations: Deceiving Vision-Language Models Across Both Images and Text with a Single Perturbation**|1. Korea Advanced Institute of <br>Science and Technology (KAIST)|[2412.08108](http://arxiv.org/abs/2412.08108)|null|
+|**2024-12-10**|**AmCLR: Unified Augmented Learning for Cross-Modal Representations**|1. Texas A&M University|[2412.07979](http://arxiv.org/abs/2412.07979)|null|
+|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|1. NVIDIA 2. NVIDIA 3. NVIDIA <br>4. NVIDIA|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
+|**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|1. Carnegie Mellon University <br>2. University of Virginia 3. <br>Independent Researcher 4. <br>University of Hong Kong|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
+|**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|1. Shanghai Research Institute <br>for Intelligent Autonomous <br>Systems, Tongji University 2. <br>School of Automation, Nanjing <br>University of Information <br>Science and Technology 3. <br>School of Automotive Studies, <br>Tongji University|[2412.07518](http://arxiv.org/abs/2412.07518)|**[link](https://github.com/fjq-tongji/hcoenet)**|
+|**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|1. Tsinghua University 2. <br>University of Queensland|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
 |**2024-12-04**|**Streaming Detection of Queried Event Start**|1. Stanford University 2. <br>Stanford University 3. <br>Stanford University 4. <br>Stanford University|[2412.03567](http://arxiv.org/abs/2412.03567)|null|
 |**2024-12-04**|**FLAIR: VLM with Fine-grained Language-informed Image Representations**|1. Technical University of <br>Munich 2. Helmholtz Munich 3. <br>MCML 4. MDSI|[2412.03561](http://arxiv.org/abs/2412.03561)|**[link](https://github.com/explainableml/flair)**|
 |**2024-12-04**|**Best-of-N Jailbreaking**|1. Speechmatics 2. MATS 3. UCL <br>4. Stanford University|[2412.03556](http://arxiv.org/abs/2412.03556)|null|
@@ -256,7 +276,7 @@
 |**2024-08-28**|**Kangaroo: A Powerful Video-Language Model Supporting Long-context Video Input**|1.Meituan Group 2.University <br>of Chinese Academy of Sciences <br>3.Institute of Software, <br>Chinese Academy of Sciences <br>4.Key Laboratory of System <br>Software|[2408.15542](http://arxiv.org/abs/2408.15542)|null|
 |**2024-08-28**|**A Simple Baseline with Single-encoder for Referring Image Segmentation**|1.GIST 2.NAVER Cloud <br>3.Electrical Engineering and <br>Computer Science|[2408.15521](http://arxiv.org/abs/2408.15521)|null|
 
-<p align=right>(<a href=#updated-on-20241206>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241212>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
